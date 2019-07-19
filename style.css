@@ -15,7 +15,7 @@ pre, code { font-family: mono, monospace; }
 
 body {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAQSURBVHgBAQUA+v8A/dsp/wfbAwFy+CMuAAAAAElFTkSuQmCC); /* #FDDB29 */
-  background-color: hsl(51, 100%, 59%); /* fallback */
+  background-color: hsl(215, 45%, 40%); /* fallback */
   color: #000;
   -webkit-font-feature-settings: "kern" 1,"liga" 1,"calt" 1;
   -moz-font-feature-settings: "kern" 1,"liga" 1,"calt" 1;
@@ -93,7 +93,7 @@ sub { top: .5ex; }
 .footnotes-br { width: 100px; height: 2px; background: #000000; margin-top: 5em; }
 .footnotes, .footnotes_alt { padding-left: 1em;  }
 .footnotes_alt > li > .dagger { margin-left: -13px; }
-.footnotes_alt { list-style: none; } 
+.footnotes_alt { list-style: none; }
 
 .notes { font-size: 0.8em; }
 .note-number { margin-left: -1em; }
